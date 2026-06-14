@@ -18,10 +18,13 @@ Below are the questions I want to answer in my project:
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights.
+
   **-Pandas Library:** The python library used to analyze the data.
+
   **-Matplotlib Library:** The library I used to visualize my data.
 
   **-Seaborn Library:** The library I used to create more advanced visuals.
+
 **Jupyter Notebooks:** The tool i used to run my python scripts which let me easily include my notes and analysis.
 
 **Visual Studio Code:** My go to for excuting my python scripts.
