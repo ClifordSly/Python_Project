@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to my analysis of the data job market, focusing on data analysis roles. This was created out of desire to navigate and understand the job market more effectively. It delivers into the top paying and in demand skills to ehlp find optimal job opportunities for data analysts.
+Welcome to my analysis of the data job market, focusing on data analysis roles. This was created out of desire to navigate and understand the job market more effectively. It delivers into the top paying and in demand skills to help find optimal job opportunities for data analysts.
 
 The data set (**I got it from hugging face website**) from [luke Barousse](lukebarousse/data_jobs) which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of python scripts, I explore key questions such as the demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
